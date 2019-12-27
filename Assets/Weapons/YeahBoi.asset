@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0eb5db0ec558b348ab84e8545261ce6, type: 3}
+  m_Name: YeahBoi
+  m_EditorClassIdentifier: 
+  weaponName: Yeah Boiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+  cost: 1500
+  description: Yeah Boi
+  fireRate: 0.15
+  damage: 100000
+  range: 100
+  gunAudio: {fileID: 8300000, guid: 461764de1642b1d4aac2c63b62410e35, type: 3}
+  gunLight: {fileID: 108822234916149740, guid: f77185c88b67a304db1262efb93f5647, type: 2}
+  gunLine: {fileID: 2100000, guid: 99e8b55e070544b49be9b8d508b8d97d, type: 2}
+  gunMesh: {fileID: 4300000, guid: 5e541cd09cb886647895c062b4e7df6f, type: 3}

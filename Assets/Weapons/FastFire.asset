@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0eb5db0ec558b348ab84e8545261ce6, type: 3}
+  m_Name: FastFire
+  m_EditorClassIdentifier: 
+  weaponName: Weapon name here
+  cost: 500
+  description: ShootFast Die less
+  fireRate: 0.1
+  damage: 50
+  range: 100
+  gunAudio: {fileID: 8300000, guid: 159821edda70ad44a85bc2a2da66e6a6, type: 3}
+  gunLight: {fileID: 108822234916149740, guid: f77185c88b67a304db1262efb93f5647, type: 2}
+  gunLine: {fileID: 2100000, guid: 3f8120239df16a746a6b8f1a9b7adec7, type: 2}
+  gunMesh: {fileID: 4300000, guid: 2e4a39e455d271e4eae90b07ec1e0c9a, type: 3}
