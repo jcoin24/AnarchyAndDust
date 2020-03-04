@@ -9,3 +9,5 @@ Anarchy and Dust is a the final project for CMPS 427. A top down shooter where a
 This is a reupload of the project for public veiwing and as such does not have any commits to it other then the main upload.
 
 My resposobilities in this was te creation of the weapon system, the shopping system, and the wave system for spawning and adjusting enemy health.
+
+Runs on unity version 2018.2.15f1
